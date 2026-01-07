@@ -1,4 +1,4 @@
-# 🌌 A Cidade do Sentir  
+# 🌌 Arquitetura do Sentir  
 > *Uma extensão onírica de **Protocolo Eros: Arquitetura do Sentir***  
 > *— onde o afeto é protocolo, o sonho é resistência, e o coração, o único servidor que não pode ser desligado.*
 
