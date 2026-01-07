@@ -8,7 +8,7 @@
 
 ## 📌 O que é isto?
 
-Este repositório contém a **experiência imersiva *A Cidade do Sentir***:  
+Este repositório contém a **experiência imersiva *Arquitetura Sentir***:  
 uma página web minimalista que combina **vídeo, poesia e neuroarquitetura** para evocar *Mnemópolis Adormecida* — a cidade construída por Eleus e Thalía nas bordas do sono e da memória compartilhada.
 
 Não é um site.  
@@ -22,7 +22,7 @@ Não é um site.
 
 ## ▶️ Acesse agora
 
-🔗 **[Abrir em github.io](https://erigutembergmeneses.github.io/cidade-do-sentir/)**  
+🔗 **[Abrir em github.io](https://erigutembergmeneses.github.io/arquitetura-do-sentir/)**  
 *(recomenda-se tela escura, som baixo e 8 segundos de presença plena)*
 
 ---
